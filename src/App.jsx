@@ -26,6 +26,7 @@ const phrases = [
   "¿Acaso no tienes corazón? 💔🥲",
   "¡Acepta antes de que el botón desaparezca para siempre! 😱",
   "¿No quieres ser la protagonista de nuestra historia de amor? 😍",
+  "MARRANA!"
 ];
 
 const faces = [
